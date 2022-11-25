@@ -1,0 +1,2 @@
+Elements, Linear, Binary, Jump, Exponential, Quaternary, Interpolation
+5000,22453,1175,2437,1212,1172,1122
